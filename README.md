@@ -63,3 +63,8 @@ dependencies {
         binding.overlapImagesViewWithDrawable.imageList = drawableImages
         binding.overlapImagesViewWithDrawable.circleCount = drawableImages.size
 ```
+- **Screenshot**
+
+<p align="center">
+  <img src="https://github.com/hassan963/overlap-images-with-total-count-view/blob/master/docs/images/Screenshot_20230207_214456.png" width="250" title="hover text">
+</p>
