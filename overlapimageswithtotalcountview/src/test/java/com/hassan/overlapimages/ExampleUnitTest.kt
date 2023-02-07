@@ -1,4 +1,4 @@
-package com.hassan.overlapimageswithtotalcountview
+package com.hassan.overlapimages
 
 import org.junit.Test
 

@@ -1,4 +1,4 @@
-package com.hassan.overlapimageswithtotalcountview
+package com.hassan.overlapimages
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
