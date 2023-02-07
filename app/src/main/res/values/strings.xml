@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">OverlapImagesWithTotalCountView</string>
+    <string name="app_name">OverlapImagesList</string>
+    <string name="overlap_images_with_url">Overlap images with url</string>
+    <string name="overlap_images_with_jpeg_file">Overlap images with JPEG file</string>
 </resources>
